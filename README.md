@@ -1,2 +1,2 @@
-# object-study-help
-Public merchant guide and support for the Object Study Shopify theme
+# Trestle theme support
+Public merchant guide and support for the Trestle Shopify theme.
